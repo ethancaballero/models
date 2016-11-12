@@ -60,3 +60,5 @@ python neural_gpu_trainer.py --task=rev --mode=1 --animate=True
 ```
 
 Maintained by Lukasz Kaiser (lukaszkaiser)
+
+Where's Extended Neural GPU https://github.com/tensorflow/models/tree/master/neural_gpu/extended from https://arxiv.org/pdf/1610.08613.pdf?
